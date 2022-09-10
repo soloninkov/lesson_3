@@ -1,0 +1,33 @@
+h1 {
+  color: #008080;
+}
+
+#paragraf {
+  color: #ffd700;
+}
+
+.list {
+  color: #ff00ff;
+}
+
+ol {
+  color: red;
+}
+
+a {
+  color: #4b0082;
+}
+
+.text-lesson {
+  color: #00bfff;
+}
+.content {
+  color: hotpink;
+}
+.text > p {
+  color: #7fffd4;
+}
+
+div {
+  color: blue;
+}
